@@ -1,1 +1,3 @@
-this is some more text for the firt file created in the dev branch. 
+this is some more text for the firt file created in the dev branch.
+
+another line in file 2. 
